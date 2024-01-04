@@ -8,4 +8,8 @@ public class Demo {
 		
 	}
 	
+	private void addToKart() {
+		System.out.println("This is anand working in add to kart");
+	}
+	
 }
