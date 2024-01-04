@@ -12,4 +12,9 @@ public class Demo {
 		System.out.println("This is anand working in add to kart");
 	}
 	
+	private void payment() {
+		System.out.println("this is brindha working in payment");
+	}
+	
+	
 }
